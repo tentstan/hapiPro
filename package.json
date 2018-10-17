@@ -1,0 +1,28 @@
+{
+  "name": "hapipro",
+  "version": "1.0.0",
+  "description": "hapipro",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js &"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "hailin8818@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.6.3",
+    "hapi-swagger": "^7.10.0",
+    "inert": "^4.2.1",
+    "joi": "^13.7.0",
+    "mysql2": "^1.6.1",
+    "package": "^1.0.1",
+    "sequelize": "^4.39.0",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^4.1.1"
+  }
+}
